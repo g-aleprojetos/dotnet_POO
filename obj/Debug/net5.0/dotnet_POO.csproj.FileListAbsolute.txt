@@ -1,0 +1,16 @@
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\dotnet_POO.exe
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\dotnet_POO.deps.json
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\dotnet_POO.runtimeconfig.json
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\dotnet_POO.runtimeconfig.dev.json
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\dotnet_POO.dll
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\ref\dotnet_POO.dll
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\bin\Debug\net5.0\dotnet_POO.pdb
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.csproj.AssemblyReference.cache
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.AssemblyInfoInputs.cache
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.AssemblyInfo.cs
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.dll
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\ref\dotnet_POO.dll
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.pdb
+C:\Users\alexandre.sgoncalves\Desktop\dotnet_POO\obj\Debug\net5.0\dotnet_POO.genruntimeconfig.cache
